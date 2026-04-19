@@ -28,6 +28,7 @@ I'm deeply interested in **AI/ML systems**, having built multi-agent LLM pipelin
 **Frameworks & Tools**
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
@@ -46,11 +47,39 @@ I'm deeply interested in **AI/ML systems**, having built multi-agent LLM pipelin
 
 ---
 
-## 🚀 Projects
+## 🚀 Featured Projects
 
-- 🤖 **StudyAgent** — Multi-agent LLM system for adaptive CS/ML concept mastery using Ollama, ChromaDB, SQLite, and Streamlit
-- 🖥️ **tsh** — Unix shell with full job control, signal handling, and pipe support (C)
-- 🌐 **Veil** *(in progress)* — Anonymous daily AI-matched social app with progressive identity reveal, built with Flutter & Firebase
+### 🤖 [Digital Matters — RAG Chatbot](https://github.com/ozr0013/Digital-Matters---RAG-Chatbot-Utah-Digital-Newspaper)
+Retrieval-Augmented Generation chatbot built for the University of Utah Digital Matters Lab over a 59GB historical newspaper corpus. Combines vector search, neural retrieval, and LLM generation to surface archival content conversationally.
+`Python` · `RAG` · `Vector DB` · `LLMs`
+
+### 🧠 StudyAgent
+Multi-agent LLM system for adaptive CS/ML concept mastery. Orchestrates specialized agents (tutor, evaluator, retriever) over a local Ollama + ChromaDB stack with a Streamlit frontend. Built as the CS 6960 (MultiModal LLM Agents) capstone.
+`Python` · `Ollama` · `ChromaDB` · `SQLite` · `Streamlit`
+
+### 💬 [Realtime Chat](https://github.com/ozr0013/realtime-chat)
+Full-stack real-time messaging app with WebSocket-based bidirectional communication, persistent message history, and multi-room support.
+`Java` · `Spring Boot` · `WebSocket`
+
+### 🛒 [E-Commerce API](https://github.com/ozr0013/ecommerce-api)
+RESTful backend for an e-commerce platform — product catalog, cart, orders, and auth. Designed around clean service layers and JPA persistence.
+`Java` · `Spring Boot` · `REST` · `JPA`
+
+### ✅ [Task Manager](https://github.com/ozr0013/task-manager)
+Task management service with CRUD operations, user auth, and priority/status filtering. Built as a practice ground for Spring patterns and testing.
+`Java` · `Spring Boot`
+
+### 🍽️ [Saltify Grill](https://github.com/ozr0013/Saltify-grill)
+Menu extraction and digital menu platform for a Salt Lake City restaurant. Parses physical menu layouts and rebuilds them into an editable, modern web interface.
+`JavaScript` · `Node.js`
+
+### 🎵 [VibeFlow](https://github.com/ozr0013/vibeflow)
+A mood-driven music/vibe web app exploring interactive frontend patterns.
+`JavaScript`
+
+### 🖥️ tsh — Unix Shell
+C implementation of a Unix shell with full job control, signal handling (SIGINT/SIGTSTP/SIGCHLD), process groups, and pipe support. Built as part of systems coursework at the University of Utah.
+`C` · `POSIX` · `Systems Programming`
 
 ---
 
