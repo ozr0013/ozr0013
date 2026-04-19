@@ -13,8 +13,6 @@
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ozr0013&theme=radical&hide_border=true)
 
-![Omar's activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ozr0013&theme=react-dark&hide_border=true&area=true)
-
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ozr0013&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=8)
 
 ### 📈 Contribution Graph
