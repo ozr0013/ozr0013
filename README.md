@@ -57,7 +57,6 @@
 <img src="https://cdn.simpleicons.org/streamlit/FE4B4B" width="45" alt="Streamlit"/>
 <img src="https://cdn.simpleicons.org/ollama/FFFFFF" width="45" alt="Ollama"/>
 <img src="https://cdn.simpleicons.org/langchain" width="45" alt="LangChain"/>
-<img src="https://cdn.simpleicons.org/chromadb/FF6F00" width="45" alt="ChromaDB"/>
 <img src="https://skillicons.dev/icons?i=postgres" width="45"/>
 <img src="https://skillicons.dev/icons?i=mongodb" width="45"/>
 <img src="https://skillicons.dev/icons?i=docker" width="45"/>
