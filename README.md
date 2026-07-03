@@ -1,63 +1,129 @@
-# About Me
+<!-- Banner: replace main.png with your own banner image, OR use the capsule-render line below instead -->
+<img src="main.png" />
 
-# Hi, I'm Omar Rizwan 👋
+<!-- Alternative banner (delete the line above and uncomment this if you don't have a main.png):
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:00d9ff&height=200&section=header&text=Omar%20Rizwan&fontColor=ffffff&fontSize=60&desc=Full-Stack%20%C2%B7%20Agentic%20AI%20%C2%B7%20ML&descAlignY=62&animation=fadeIn" width="100%"/>
+-->
 
-🎓 Computer Science Senior @ University of Utah (Spring 2027)
-📍 Salt Lake City, UT
-🔗 [LinkedIn](https://www.linkedin.com/in/omarrizwan7)
+<div align="center">
+
+### `Full Stack Developer` · `AI/ML Engineer` · `Agentic AI`
+
+*Full-Stack Software Engineer building clean, scalable software at the intersection of AI and real-world applications. Currently shipping B2B SaaS on Angular + ASP.NET Core, and building multi-agent LLM pipelines, RAG systems, and production-scale ML.<br><br>*
+
+<br>
+
+<p align="center">
+    <a href="https://www.linkedin.com/in/omarrizwan7">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    </a>
+    <a href="https://YOUR-PORTFOLIO-URL">
+      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio"/>
+    </a>
+    <a href="https://www.instagram.com/omar_riz">
+      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+    </a>
+    <a href="mailto:omarrizwan7@gmail.com">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    </a>
+  </p>
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=ozr0013&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views"/>
+    <img src="https://img.shields.io/github/followers/ozr0013?style=flat-square&logo=github&label=Followers" alt="Followers"/>
+    <img src="https://img.shields.io/github/stars/ozr0013?affiliations=OWNER&style=flat-square&logo=github&label=Stars" alt="Stars"/>
+  </p>
 
 ---
 
-## About Me
+## Tech Stack
 
-I'm a Full Stack Software Engineer with a passion for building clean, scalable software and exploring the intersection of AI and real-world applications. Currently interning at **Brenner Software**, where I develop B2B SaaS solutions for fabrication shops — working across Angular frontends and ASP.NET Core backends.
+<img src="https://skillicons.dev/icons?i=cs" width="45"/>
+<img src="https://skillicons.dev/icons?i=dotnet" width="45"/>
+<img src="https://skillicons.dev/icons?i=ts" width="45"/>
+<img src="https://skillicons.dev/icons?i=angular" width="45"/>
+<img src="https://skillicons.dev/icons?i=python" width="45"/>
+<img src="https://skillicons.dev/icons?i=java" width="45"/>
+<img src="https://skillicons.dev/icons?i=cpp" width="45"/>
+<img src="https://skillicons.dev/icons?i=c" width="45"/>
+<img src="https://skillicons.dev/icons?i=js" width="45"/>
+<img src="https://skillicons.dev/icons?i=html" width="45"/>
+<img src="https://skillicons.dev/icons?i=pytorch" width="45"/>
+<img src="https://skillicons.dev/icons?i=sklearn" width="45"/>
 
-I'm deeply interested in **AI/ML systems**, having built multi-agent LLM pipelines, benchmarked multimodal agents, and explored adaptive learning architectures. I'm actively targeting roles at AI-forward companies where I can push the boundaries of what software can do.
+<br>
+
+<img src="https://skillicons.dev/icons?i=fastapi" width="45"/>
+<img src="https://skillicons.dev/icons?i=flutter" width="45"/>
+<img src="https://cdn.simpleicons.org/streamlit/FE4B4B" width="45" alt="Streamlit"/>
+<img src="https://cdn.simpleicons.org/ollama/FFFFFF" width="45" alt="Ollama"/>
+<img src="https://cdn.simpleicons.org/langchain" width="45" alt="LangChain"/>
+<img src="https://cdn.simpleicons.org/chromadb/FF6F00" width="45" alt="ChromaDB"/>
+<img src="https://skillicons.dev/icons?i=postgres" width="45"/>
+<img src="https://skillicons.dev/icons?i=mongodb" width="45"/>
+<img src="https://skillicons.dev/icons?i=docker" width="45"/>
+<img src="https://skillicons.dev/icons?i=linux" width="45"/>
+<img src="https://skillicons.dev/icons?i=git" width="45"/>
+<img src="https://skillicons.dev/icons?i=github" width="45"/>
 
 ---
 
-## 🛠️ Tech Stack
+## Here’s my GitHub Score, updated daily:
 
-**Languages**
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![SQL](https://img.shields.io/badge/sql-%2307405e.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+<!--SCORE_START-->
+🏆 **GitHub Score:** 0
 
-**Frameworks & Tools**
-![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+📊 Formula: (Commits ×0.5 + Stars ×5 + Forks ×3 + PRs ×4 + Issues ×2 + Followers ×2)
 
-**AI / ML**
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white) ![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6F00?style=for-the-badge&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-
-**Dev Tools**
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Kali Linux](https://img.shields.io/badge/Kali%20Linux-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
+🎮 **Level 1**
+[░░░░░░░░░░] 0%
+<!--SCORE_END-->
 
 ---
+
+</div>
 
 ## 🚀 Projects
 
-- 🤖 **[Digital Matters — RAG Chatbot](https://github.com/ozr0013/Digital-Matters---RAG-Chatbot-Utah-Digital-Newspaper)** — Retrieval-Augmented Generation chatbot over a 59GB historical newspaper corpus for the U of U Digital Matters Lab *(Python, Vector DB, LLMs)*
-- 🧠 **StudyAgent** — Multi-agent LLM system for adaptive CS/ML concept mastery *(Ollama, ChromaDB, SQLite, Streamlit)*
+- 🤖 **[Digital Matters — RAG Chatbot](https://github.com/ozr0013/Digital-Matters---RAG-Chatbot-Utah-Digital-Newspaper)** — Retrieval-Augmented Generation over ~9M Utah Digital Newspapers records, sub-400ms latency *(Python, FAISS/ChromaDB, LLMs)*
+- 🧠 **StudyAgent** — Multi-agent LLM tutoring system for adaptive CS/ML concept mastery *(Ollama, ChromaDB, SQLite, Streamlit)*
 - 💬 **[Realtime Chat](https://github.com/ozr0013/realtime-chat)** — Full-stack messaging app with WebSocket communication and multi-room support *(Java, Spring Boot)*
 - 🛒 **[E-Commerce API](https://github.com/ozr0013/ecommerce-api)** — RESTful backend for catalog, cart, orders, and auth *(Java, Spring Boot, JPA)*
-- ✅ **[Task Manager](https://github.com/ozr0013/task-manager)** — Task management service with CRUD, auth, and filtering *(Java, Spring Boot)*
-- 🍽️ **[Saltify Grill](https://github.com/ozr0013/Saltify-grill)** — Menu extraction and digital menu platform for a SLC restaurant *(JavaScript, Node.js)*
+- 🍽️ **[Saltify Grill](https://github.com/ozr0013/Saltify-grill)** — Digital menu platform for a Salt Lake City restaurant *(JavaScript, Node.js)*
 - 🖥️ **tsh** — Unix shell with full job control, signal handling, and pipe support *(C)*
-- 🌐 **Veil** *(in progress)* — Anonymous AI-matched social app with progressive identity reveal *(Flutter, Firebase)*
 
 ---
 
+<h2 align="center"> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> Github Statistics</h2>
 
-## 🌐 Socials
+<div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/omarrizwan7) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/omar_riz) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/OmarRiz) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://facebook.com/OmarRizwan) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/OmarR) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:omarrizwan7@gmail.com)
+<!-- Row 1: 3 equal columns -->
+<img width="32%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ozr0013&theme=dark&cache_seconds=60" />
+<img width="32%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ozr0013&theme=dark&cache_seconds=60" />
+<img width="32%" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ozr0013&theme=dark&cache_seconds=60" />
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![AssemblyScript](https://img.shields.io/badge/assembly%20script-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![OpenStack](https://img.shields.io/badge/Openstack-%23f01742.svg?style=for-the-badge&logo=openstack&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![nVIDIA](https://img.shields.io/badge/cuda-000000.svg?style=for-the-badge&logo=nVIDIA&logoColor=green) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![JavaFX](https://img.shields.io/badge/javafx-%23FF0000.svg?style=for-the-badge&logo=javafx&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Apache Ant](https://img.shields.io/badge/Apache%20Ant-A81C7D?style=for-the-badge&logo=Apache%20Ant&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![ChipperCI](https://img.shields.io/badge/chipperci-1e394e.svg?style=for-the-badge&logo=chipperci&logoColor=white) ![Mercurial](https://img.shields.io/badge/mercurial-999999.svg?style=for-the-badge&logo=mercurial&logoColor=white) ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white) ![Vitest](https://img.shields.io/badge/-Vitest-252529?style=for-the-badge&logo=vitest&logoColor=FCC72B) ![Sentry](https://img.shields.io/badge/sentry-%23362D59.svg?style=for-the-badge&logo=sentry&logoColor=white) ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white)
+<!-- Row 2: streak + stats -->
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=ozr0013&theme=dark&date_format=M%20j%5B,%20Y%5D&fire=DD2727&ring=DD2727&currStreakLabel=DD2727&cache_seconds=60&hide_border=true" />
+<img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ozr0013&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&count_private=true&theme=dark&hide_border=true" />
 
-# 📊 GitHub Stats:
+<!-- Row 3: profile details + activity graph -->
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ozr0013&theme=github_dark" />
+<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=ozr0013&theme=github-compact&cache_seconds=60&hide_border=true" />
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=ozr0013&theme=radical&hide_border=true)
+</div>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ozr0013&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=8)
+---
 
-### 📈 Contribution Graph
-![Omar's activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ozr0013&theme=react-dark&hide_border=true)
+<div align="center">
+
+## 🤝 Connect With Me
+
+*Always open to collaborating on interesting projects, discussing AI/ML and agentic systems, and contributing to community tooling — fixing bugs, improving docs, building reusable components.*
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omarrizwan7)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ozr0013)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:omarrizwan7@gmail.com)
+
+</div>
+
+---
