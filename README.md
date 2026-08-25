@@ -1,5 +1,5 @@
 <!-- Banner: replace main.png with your own banner image, OR use the capsule-render line below instead -->
-<img src="main.png" />
+<img src="banner-v2.svg" />
 
 <!-- Alternative banner (delete the line above and uncomment this if you don't have a main.png):
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:00d9ff&height=200&section=header&text=Omar%20Rizwan&fontColor=ffffff&fontSize=60&desc=Full-Stack%20%C2%B7%20Agentic%20AI%20%C2%B7%20ML&descAlignY=62&animation=fadeIn" width="100%"/>
